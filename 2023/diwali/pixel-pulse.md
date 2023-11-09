@@ -16,6 +16,8 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 
 **Register now, to get resources, tips and tricks on your email.** (Note: The submission form is different)
 
+[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSermVMkUKmXf5WqYcakQCrLYbeq0p22WMzhuDXfX8WcqjPOaw/viewform?usp=sf_link)
+
 ## Rules:
 
 1. You can work anytime, and from anywhere. Your work can be broken down into these steps:
