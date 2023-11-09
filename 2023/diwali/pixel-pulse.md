@@ -39,6 +39,7 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 	- Explaining the process of Prompt Engineering (the entire pipeline) (20 points)
 7. Submission Format: A google drive folder link
 	- Create a Google Drive Folder
+	- **You can Submit upto 5 images.**
 	- Upload all the full resolution generated images
 	- Create a Google Doc in the same folder, and write your prompts and process for generation for each image
 	- Folder Name: RollNo_PixelPulse
