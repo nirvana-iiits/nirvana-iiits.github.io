@@ -1,5 +1,7 @@
 # Pixel Pulse: Gen-AI Art Jam 🖌️
 
+[Link to Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSermVMkUKmXf5WqYcakQCrLYbeq0p22WMzhuDXfX8WcqjPOaw/viewform?usp=sf_link)
+
 ![pixel-pulse](pixel-pulse.png)
 
 Join us for an electrifying celebration of creativity this Diwali! 🎨✨
