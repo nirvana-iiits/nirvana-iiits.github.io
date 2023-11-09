@@ -6,7 +6,7 @@
 
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSebFaIx1vY3uYm8MJM5dTgIas73pvvB9el6umy4IK-7rdXCLA/viewform?usp=sf_link)**
 
-Nirvana is organizing **Bytes & Books: Readathon** to promote reading and improve focus skills. Participants can choose from various categories of books, and there are two levels of participation: submitting an abstract and presenting their knowledge.
+Nirvana is organizing **Bytes & Books: Readathon** to promote reading and improve focus skills. Participants can choose from various categories of books, and there are two levels of participation: submitting an abstract and sharing their learnings/ideas through a short talk.
 
 Prizes include certificates for all participants, certificates of merit for the top 10 abstracts, and special prizes for the top 3.
 
