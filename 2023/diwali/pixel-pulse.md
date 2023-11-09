@@ -1,8 +1,10 @@
 # Pixel Pulse: Gen-AI Art Jam 🖌️
 
+![pixel-pulse](pixel-pulse.png)
+
 Join us for an electrifying celebration of creativity this Diwali! 🎨✨
 
-Nirvana and GDSC are teaming up to bring you an exhilarating Generative AI Art Creation Competition! **Simply put, you need to generative creative artwork using AI Models such as DALL-E, Midjourney or any other model.**
+Nirvana and GDSC are teaming up to bring you an exhilarating Generative AI Art Creation Competition! **Simply put, you need to generate creative artwork using AI Models such as DALL-E, Midjourney or any other model of your choice.**
 
 Get ready to explore the cutting-edge world of smart prompt engineering and the latest open-source AI models. You have the chance to outshine the competition, win incredible prizes, and, best of all, earn your certificates!
 
@@ -16,17 +18,17 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 
 ## Rules:
 
-1. You can work anytime, and from anywhere. Your work can be broken down into few steps:
+1. You can work anytime, and from anywhere. Your work can be broken down into these steps:
 	- Get a basic idea about Generative AI, and models which can generate images.
-	- Glance through different terminology related to different art forms
-	- Use a model hosted online (like DALL-E or Midjourney) or install and setup some open source model on your own laptop
-	- Experiement with different prompts and try to create mind blowing work
-1. You need to submit your creations by **11th November 11:59 PM**.
-2. You can take full liberty in your creative expression. But the images you submit must be somehow related to our theme "Diwali: The Celebration of Victory of Good". Every form of art is welcome.
+	- Glance through different terminology related to different art forms.
+	- Use a model hosted online (like DALL-E or Midjourney) or install and setup some open source model on your own local machine.
+	- Experiement with different prompts and try to create mind blowing work.
+1. You need to submit your creations by **12th November 11:59 AM**.
+2. You can take full liberty in your creative expression. But the images you submit must be somehow related to our theme "**Diwali: Celebrating Triumph of Goodness**". Every form of art is welcome.
 3. All submissions must comply with GDSC and Nirvana Code of Conduct.
-4. It is not neccessary for you to write the prompt you feed the Image Generation Model. You can use LLMs like Chat GPT, to generate your prompts. Whatever you do, the initial/seed prompt, must be uniquely yours and you need to document all steps taken by you to reach the final image.
+4. It is not neccessary for you to write yourself the prompt you feed the Image Generation Model. You can use LLMs like Chat GPT, to generate your prompts. Whatever you do, the initial/seed prompt, must be uniquely yours and you need to document all steps taken by you to reach the final image.
 5. Plagiarism is strictly prohibited.
-6. Judging Criteria (100 points):
+6. **Judging Criteria (100 points)**:
 	- Creativity (30 points)
 	- Usage of Open Source Models (30 points)
 	- Exploration of multiple models for best art generation (20 points)
@@ -36,4 +38,4 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 	- Upload all the full resolution generated images
 	- Create a Google Doc in the same folder, and write your prompts and process for generation for each image
 	- Folder Name: RollNo_PixelPulse
-8. You need to submit via a Google Form that will accept submissions till **11th November 2023, 11:59 PM.**
+
