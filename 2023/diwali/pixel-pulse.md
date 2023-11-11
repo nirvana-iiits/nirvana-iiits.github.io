@@ -22,7 +22,7 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 
 [Register Now](https://docs.google.com/forms/d/e/1FAIpQLSermVMkUKmXf5WqYcakQCrLYbeq0p22WMzhuDXfX8WcqjPOaw/viewform?usp=sf_link)
 
-## Rules:
+## Rules
 
 1. You can work anytime, and from anywhere. Your work can be broken down into these steps:
 	- Get a basic idea about Generative AI, and models which can generate images.
@@ -45,4 +45,11 @@ Stay tuned for more details, and get ready to unleash your artistic genius. This
 	- Upload all the full resolution generated images
 	- Create a Google Doc in the same folder, and write your prompts and process for generation for each image
 	- Folder Name: RollNo_PixelPulse
+
+## Resources
+
+1. [Introduction to Generative AI by Google Cloud Tech](https://www.youtube.com/watch?v=G2fqAlgmoPo)
+2. [Videos related to AI Image Generation](https://www.youtube.com/results?search_query=ai+image+generator+open+source)
+3. [WAYS To Get Started With AI ART [Beginner's Guide 2023]](https://www.youtube.com/watch?v=zxnXpSfoXhQ)
+4. [Google's Imagen (unprecedented photorealism × deep level of language understanding)](https://imagen.research.google/)
 
