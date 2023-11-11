@@ -2,6 +2,8 @@
 
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSebFaIx1vY3uYm8MJM5dTgIas73pvvB9el6umy4IK-7rdXCLA/viewform?usp=sf_link)**
 
+**[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSdvYpm8W52cC84nvYEqOBKCcqB_3-yTapMmza838m5nAMAVnQ/viewform?usp=sf_link)**
+
 ![poster bytes and books](bytes-and-books.png)
 
 **[Register Now](https://docs.google.com/forms/d/e/1FAIpQLSebFaIx1vY3uYm8MJM5dTgIas73pvvB9el6umy4IK-7rdXCLA/viewform?usp=sf_link)**
@@ -39,6 +41,13 @@ You can read any book you wish from the following **categories**:
 	- the summary of what you have read
 	- how reading helped improve your focus, and acheive flow state
 	- what you enjoyed during the process
+
+### Submission Format and Rules
+
+- Write your abstract in a Google Doc file.
+- You need to submit a link to Google Doc (Share access: Any with link can view)
+- Submission form link -> [View form](https://docs.google.com/forms/d/e/1FAIpQLSdvYpm8W52cC84nvYEqOBKCcqB_3-yTapMmza838m5nAMAVnQ/viewform?usp=sf_link)
+
 
 ## Round 2: Present your learnings
 
